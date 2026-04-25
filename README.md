@@ -186,8 +186,8 @@ me.say_hi()
 - [ ] 📚 Master advanced LLMOps and prompt engineering
 - [ ] 🎤 Speak at data science conference or meetup
 - [ ] 📝 Publish 12 technical blog posts on ML best practices
-- [ ] 🏆 Complete advanced ML certifications (AWS ML, TensorFlow)
-- [ ] 👥 Mentor 10+ aspiring data scientists
+- [ ] 🏆 Complete research papers on ML and AI
+- [ ] 👥 Mentor 10+ aspiring data scientists, Data Analysts and Business Analysts
 
 ---
 
