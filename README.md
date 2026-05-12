@@ -178,7 +178,7 @@ me.say_hi()
 | 👥 **Customer Segmentation** | RFM analysis for targeted marketing and customer insights | Python, Sklearn, Plotly | ✅ Complete |
 | 🚨 **Fraud Detection System** | Real-time anomaly detection using unsupervised learning | TensorFlow, Isolation Forest | ✅ Complete |
 | 📊 **Demand Forecasting** | Time series forecasting for supply chain optimization | Prophet, LSTM, XGBoost | ✅ Complete |
-| 🤖 **LLM & RAG Application** | GenAI application with retrieval augmented generation | LangChain, OpenAI, FAISS | ✅ In Progress |
+| 🤖 **LLM & RAG Application** | GenAI application with retrieval augmented generation | LangChain, OpenAI, FAISS | ✅ Complete |
 | 💬 **Sentiment Analysis** | NLP pipeline for airline customer sentiment | BERT, Transformers, NLTK | ✅ Complete |
 
 ---
